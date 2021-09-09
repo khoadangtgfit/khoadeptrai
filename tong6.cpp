@@ -26,4 +26,8 @@ int main()
     cout<<"\nTinh Tong cua S(n)=1*2*3*...*n:"<<endl;
     NhapN(n);
     cout<<"Tong= "<<Tong(n);
+    //dep trai ma ngu
+    //https://github.com/khoadangtgfit/khoadeptrai.git
+    //https://github.com/khoadangtgfit/khoadeptrai.git
+    //https://github.com/khoadangtgfit/khoadeptrai.git
 }
