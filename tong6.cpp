@@ -30,9 +30,4 @@ int main()
     //https://github.com/khoadangtgfit/khoadeptrai.git
     //https://github.com/khoadangtgfit/khoadeptrai.git
     //https://github.com/khoadangtgfit/khoadeptrai.git
-    //khoa123456
-    //khoa123456
-    
-    //khoa123456
-    
 }
